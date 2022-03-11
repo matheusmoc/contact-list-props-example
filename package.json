@@ -1,0 +1,39 @@
+{
+  "name": "react-props-practice",
+  "version": "1.0.0",
+  "description": "React is a JavaScript library for building user interfaces.",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-react-app": "^3.1.2",
+    "react": "16.8.6",
+    "react-dom": "16.8.6",
+    "react-scripts": "3.2.0"
+  },
+  "devDependencies": {
+    "typescript": "3.3.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matheusmoc/contact-list-props-example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matheusmoc/contact-list-props-example/issues"
+  },
+  "homepage": "https://github.com/matheusmoc/contact-list-props-example#readme"
+}
